@@ -144,7 +144,6 @@ memory_slots    = 256
 memory_dim      = 128
 ```
 
-The final version keeps only the settings that are actually used by the code.
 
 ### 2. `load_system`
 
