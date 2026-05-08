@@ -45,7 +45,6 @@ The main output files are:
 | `outputs/figures/grouping_behavior.png` | Predicted group counts by system. |
 | `outputs/models/memaid_checkpoint.pt` | Saved model checkpoint from the final run. |
 
-The targeted experiment workbook keeps the useful sheets only. It no longer exports the contribution-delta table or winner-count table because those two views made the ablation section harder to read and did not add much to the final thesis discussion.
 
 ## Overall Workflow
 
