@@ -3,7 +3,7 @@
 Main notebook:
 
 ```text
-Generalizing_log_parsing_final_clean.ipynb
+Generalizing_log_parsing_.ipynb
 ```
 
 This project builds a log template parser that can work across different log systems. The goal is simple: given a raw log line, the model should keep the stable event words and replace changing runtime values with `<*>`.
