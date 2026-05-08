@@ -526,7 +526,7 @@ Variance retained from enc.svd_variance: 0.9432
 Use this notebook for final results:
 
 ```text
-Generalizing_log_parsing_final_clean.ipynb
+Generalizing_log_parsing_final_.ipynb
 ```
 
 The core idea is:
